@@ -2,8 +2,11 @@ Unity3D-Shaders-Basic
 =====================
 
 Basic Unity3D Shaders
+
 Author: Shantanu Bhadoria
+
 Date: 2/7/2014
+
 These are Basic Shaders built using tutorials from Unity docs. Shader files are in Shaders folder and can be dragged and dropped into Unity Assets.Each subsequent shader adds a certain effect to the pervious shader. Shaders upto 4 are single pass shaders which means they don't support multiple light sources. 5 and onwards are multi pass shaders which combine the effects of multiple lights in the scene.
 
 * 1 Flat Color: Flat Color shader, no effects, no reaction to ambient, directional or any other light, this is the simplest possible shader you can have. Very little Practical use. Single Pass Vertext ShaderSingle Pass
